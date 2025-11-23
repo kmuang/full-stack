@@ -1,0 +1,2 @@
+This is a placeholder for the Photo Gallery project image.
+To get the actual image, save a screenshot from: https://next-gallery-johnmwendwa.vercel.app/

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="azure-grad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0078d4"/>
+      <stop offset="100%" stop-color="#5ea0ef"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#azure-grad)" d="M127.724 0L0 222.088l67.266 11.368 120.922-211.084L127.724 0zm0 0"/>
+  <path fill="#50e6ff" d="M127.724 0l-18.48 51.095 76.222 132.183-98.956 17.29L0 222.088l122.249 21.418L256 32.508 127.724 0zm0 0"/>
+</svg>

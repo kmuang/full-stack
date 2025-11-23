@@ -1,0 +1,2 @@
+This is a placeholder for the Movies App project image.
+To get the actual image, save a screenshot from: https://react-movies-lac.vercel.app/

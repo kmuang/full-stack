@@ -1,0 +1,2 @@
+This is a placeholder for the Vet Admin Dashboard project image.
+To get the actual image, save a screenshot from: https://vet-management-system.vercel.app/
